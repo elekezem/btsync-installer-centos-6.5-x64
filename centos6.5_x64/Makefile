@@ -7,7 +7,7 @@ define BT_SYNC_CONFIG
 	"use_upnp" : false,
 	"webui" :
 	{
-		"listen" : "0.0.0.0:8888" // Comment this out to disable the web ui
+		"listen" : "0.0.0.0:8899" // Comment this out to disable the web ui
 	}
 }
 endef
